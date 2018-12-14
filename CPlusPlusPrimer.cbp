@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CPlusPlusPrimer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/dencesun/Documents/CPlusPlusPrimer"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dencesun/Documents/CPlusPlusPrimer/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dencesun/Documents/CPlusPlusPrimer/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dencesun/Documents/CPlusPlusPrimer/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dencesun/Documents/CPlusPlusPrimer/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/dencesun/Documents/CPlusPlusPrimer"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dencesun/Documents/CPlusPlusPrimer/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dencesun/Documents/CPlusPlusPrimer/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dencesun/Documents/CPlusPlusPrimer/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dencesun/Documents/CPlusPlusPrimer/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/dencesun/Documents/CPlusPlusPrimer"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dencesun/Documents/CPlusPlusPrimer/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dencesun/Documents/CPlusPlusPrimer/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dencesun/Documents/CPlusPlusPrimer/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dencesun/Documents/CPlusPlusPrimer/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPlusPlusPrimer">
+				<Option output="/Users/dencesun/Documents/CPlusPlusPrimer/CPlusPlusPrimer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dencesun/Documents/CPlusPlusPrimer"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dencesun/Documents/CPlusPlusPrimer/Makefile&quot;  VERBOSE=1 CPlusPlusPrimer"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dencesun/Documents/CPlusPlusPrimer/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dencesun/Documents/CPlusPlusPrimer/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dencesun/Documents/CPlusPlusPrimer/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPlusPlusPrimer/fast">
+				<Option output="/Users/dencesun/Documents/CPlusPlusPrimer/CPlusPlusPrimer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dencesun/Documents/CPlusPlusPrimer"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dencesun/Documents/CPlusPlusPrimer/Makefile&quot;  VERBOSE=1 CPlusPlusPrimer/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dencesun/Documents/CPlusPlusPrimer/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dencesun/Documents/CPlusPlusPrimer/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dencesun/Documents/CPlusPlusPrimer/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter03/Chapter03.cpp">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter03/Chapter03.h">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter04/chapter04.cpp">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter04/chapter04.h">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter05/chapter05.cpp">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter05/chapter05.h">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter06/chapter06.cpp">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter06/chapter06.h">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter07/chapter07.cpp">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter07/chapter07.h">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter07/ex07_32.h">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter07/ex07_41.cpp">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter07/ex07_41.h">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter07/ex07_43.h">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter07/ex07_50.h">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter07/ex07_57.h">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter08/ex08_04.cpp">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter08/ex08_04.h">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter08/ex08_05.cpp">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter08/ex08_05.h">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/chapter08/ex08_13.h">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/main.cpp">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/util.h">
+			<Option target="CPlusPlusPrimer"/>
+		</Unit>
+		<Unit filename="/Users/dencesun/Documents/CPlusPlusPrimer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
